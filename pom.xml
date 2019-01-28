@@ -60,13 +60,13 @@
     <repository>
         <id>deployment</id>
         <name>Internal Release1</name>
-        <url>http://35.237.120.3:8081/nexus/content/repositories/mph/</url>
+        <url>http://35.237.172.202:8081/nexus/content/repositories/testreport/</url>
     </repository>
 
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal Releases</name>
-        <url>http://35.237.120.3:8081/nexus/content/repositories/mphsnap/</url>
+        <url>http://35.237.172.202:8081/nexus/content/repositories/testreportsnaps/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
